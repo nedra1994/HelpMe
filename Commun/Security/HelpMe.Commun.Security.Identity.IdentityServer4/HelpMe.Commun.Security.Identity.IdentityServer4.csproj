@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Data\EfRepository.cs" />
+    <Compile Remove="Data\ResellerCompany.cs" />
+    <Compile Remove="Data\UserRepository.cs" />
+    <Compile Remove="Services\IdentityUserManager.cs" />
+    <Compile Remove="Services\INetcomUserManager.cs" />
+    <Compile Remove="Specifications\BaseSpecification.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Duende.IdentityServer" Version="6.3.0" />
+    <PackageReference Include="Duende.IdentityServer.AspNetIdentity" Version="6.3.0" />
+    <PackageReference Include="Duende.IdentityServer.EntityFramework" Version="6.3.0" />
+    <PackageReference Include="Duende.IdentityServer.Storage" Version="6.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Infra\Data\HelpMe.Commun.Infra.Data.EF\HelpMe.Commun.Infra.Data.EF.csproj" />
+    <ProjectReference Include="..\HelpMe.Commun.Security.Identity.Abstraction\HelpMe.Commun.Security.Identity.Abstraction.csproj" />
+  </ItemGroup>
+
+</Project>

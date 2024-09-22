@@ -22,7 +22,7 @@ namespace HelpMe.Commun.Infra.Logging.Serilog
                 loggerConfiguration.ReadFrom.Configuration(hostingContext.Configuration));
         }
 
-        public static IServiceCollection AddNetcomSerilog<T>(this IServiceCollection services)
+        public static IServiceCollection AddHelpMeSerilog<T>(this IServiceCollection services)
             where T : class, IHttpContextAccessor
         {
             services.AddSingleton(typeof(IHelpMeLog<>), typeof(SeriHelpMeLog<>));

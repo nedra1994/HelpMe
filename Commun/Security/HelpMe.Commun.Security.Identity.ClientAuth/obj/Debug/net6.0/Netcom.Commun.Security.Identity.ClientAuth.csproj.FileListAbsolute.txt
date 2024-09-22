@@ -1,0 +1,12 @@
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.ClientAuth\bin\Debug\net6.0\Netcom.Commun.Security.Identity.ClientAuth.deps.json
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.ClientAuth\bin\Debug\net6.0\Netcom.Commun.Security.Identity.ClientAuth.dll
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.ClientAuth\bin\Debug\net6.0\Netcom.Commun.Security.Identity.ClientAuth.pdb
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.ClientAuth\obj\Debug\net6.0\Netcom.Commun.Security.Identity.ClientAuth.csproj.AssemblyReference.cache
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.ClientAuth\obj\Debug\net6.0\Netcom.Commun.Security.Identity.ClientAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.ClientAuth\obj\Debug\net6.0\Netcom.Commun.Security.Identity.ClientAuth.AssemblyInfoInputs.cache
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.ClientAuth\obj\Debug\net6.0\Netcom.Commun.Security.Identity.ClientAuth.AssemblyInfo.cs
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.ClientAuth\obj\Debug\net6.0\Netcom.Commun.Security.Identity.ClientAuth.csproj.CoreCompileInputs.cache
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.ClientAuth\obj\Debug\net6.0\Netcom.Commun.Security.Identity.ClientAuth.dll
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.ClientAuth\obj\Debug\net6.0\refint\Netcom.Commun.Security.Identity.ClientAuth.dll
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.ClientAuth\obj\Debug\net6.0\Netcom.Commun.Security.Identity.ClientAuth.pdb
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.ClientAuth\obj\Debug\net6.0\ref\Netcom.Commun.Security.Identity.ClientAuth.dll

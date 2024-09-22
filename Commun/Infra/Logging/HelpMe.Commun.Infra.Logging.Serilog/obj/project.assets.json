@@ -1430,8 +1430,8 @@
     },
     "HelpMe.Commun.Infra.Logging.Abstraction/1.0.0": {
       "type": "project",
-      "path": "../Netcom.Commun.Infra.Logging.Abstraction/HelpMe.Commun.Infra.Logging.Abstraction.csproj",
-      "msbuildProject": "../Netcom.Commun.Infra.Logging.Abstraction/HelpMe.Commun.Infra.Logging.Abstraction.csproj"
+      "path": "../HelpMe.Commun.Infra.Logging.Abstraction/HelpMe.Commun.Infra.Logging.Abstraction.csproj",
+      "msbuildProject": "../HelpMe.Commun.Infra.Logging.Abstraction/HelpMe.Commun.Infra.Logging.Abstraction.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1475,8 +1475,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Work\\Projects\\HelpMeApplication\\Commun\\Infra\\Logging\\Netcom.Commun.Infra.Logging.Abstraction\\HelpMe.Commun.Infra.Logging.Abstraction.csproj": {
-              "projectPath": "C:\\Work\\Projects\\HelpMeApplication\\Commun\\Infra\\Logging\\Netcom.Commun.Infra.Logging.Abstraction\\HelpMe.Commun.Infra.Logging.Abstraction.csproj"
+            "C:\\Work\\Projects\\HelpMeApplication\\Commun\\Infra\\Logging\\HelpMe.Commun.Infra.Logging.Abstraction\\HelpMe.Commun.Infra.Logging.Abstraction.csproj": {
+              "projectPath": "C:\\Work\\Projects\\HelpMeApplication\\Commun\\Infra\\Logging\\HelpMe.Commun.Infra.Logging.Abstraction\\HelpMe.Commun.Infra.Logging.Abstraction.csproj"
             }
           }
         }

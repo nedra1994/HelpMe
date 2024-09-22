@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Netcom.Commun.Infra.Logging.Abstraction\HelpMe.Commun.Infra.Logging.Abstraction.csproj" />
+    <ProjectReference Include="..\HelpMe.Commun.Infra.Logging.Abstraction\HelpMe.Commun.Infra.Logging.Abstraction.csproj" />
   </ItemGroup>
 
 </Project>

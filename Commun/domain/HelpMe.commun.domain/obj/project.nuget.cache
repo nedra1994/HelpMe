@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8rS6T3gO8NPzSd/iz0v6ivVEaC+8XSaUDp8VyHKFZ/neRKERJHedyY5ZPGzk3fR/nFoLafvMkwT5mDtMYKME9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Projects\\HelpMeApplication\\Commun\\domain\\HelpMe.commun.domain\\HelpMe.commun.domain.data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\n.farhat\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\n.farhat\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

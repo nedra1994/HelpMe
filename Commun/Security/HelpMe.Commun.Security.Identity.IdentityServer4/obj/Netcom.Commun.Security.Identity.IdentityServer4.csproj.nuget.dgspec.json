@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Work\\Projects\\HelpMeApplication\\Commun\\Security\\HelpMe.Commun.Security.Identity.IdentityServer4\\Netcom.Commun.Security.Identity.IdentityServer4.csproj": {}
+  },
+  "projects": {
+    "C:\\Work\\Projects\\HelpMeApplication\\Commun\\Security\\HelpMe.Commun.Security.Identity.IdentityServer4\\Netcom.Commun.Security.Identity.IdentityServer4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Work\\Projects\\HelpMeApplication\\Commun\\Security\\HelpMe.Commun.Security.Identity.IdentityServer4\\Netcom.Commun.Security.Identity.IdentityServer4.csproj",
+        "projectName": "Netcom.Commun.Security.Identity.IdentityServer4",
+        "projectPath": "C:\\Work\\Projects\\HelpMeApplication\\Commun\\Security\\HelpMe.Commun.Security.Identity.IdentityServer4\\Netcom.Commun.Security.Identity.IdentityServer4.csproj",
+        "packagesPath": "C:\\Users\\n.farhat\\.nuget\\packages\\",
+        "outputPath": "C:\\Work\\Projects\\HelpMeApplication\\Commun\\Security\\HelpMe.Commun.Security.Identity.IdentityServer4\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\n.farhat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Work\\Projects\\HelpMeApplication\\Commun\\Infra\\Data\\Netcom.Commun.Infra.Data.EF\\Netcom.Commun.Infra.Data.EF.csproj": {
+                "projectPath": "C:\\Work\\Projects\\HelpMeApplication\\Commun\\Infra\\Data\\Netcom.Commun.Infra.Data.EF\\Netcom.Commun.Infra.Data.EF.csproj"
+              },
+              "C:\\Work\\Projects\\HelpMeApplication\\Commun\\Security\\Netcom.Commun.Security.Identity.Abstraction\\Netcom.Commun.Security.Identity.Abstraction.csproj": {
+                "projectPath": "C:\\Work\\Projects\\HelpMeApplication\\Commun\\Security\\Netcom.Commun.Security.Identity.Abstraction\\Netcom.Commun.Security.Identity.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Duende.IdentityServer": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Duende.IdentityServer.AspNetIdentity": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Duende.IdentityServer.EntityFramework": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Duende.IdentityServer.Storage": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

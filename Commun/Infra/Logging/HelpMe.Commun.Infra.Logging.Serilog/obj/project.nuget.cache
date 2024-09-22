@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8AiNAQDbCMyfge0AaoWDyqUe9iQnkwmKz5iZ5FamUudHcBEJ0c3RwqQByyC6ZL7MRKZmfmSNSbPj4QJm2yXOfQ==",
+  "dgSpecHash": "drK5ycCBybPA07WzBtznZxlizKxViSaXelCjvRg7dnmqAYSiK5DwXm7nsaLFUoAy70verxpaJ3ULMPuJhSBJ3w==",
   "success": true,
   "projectFilePath": "C:\\Work\\Projects\\HelpMeApplication\\Commun\\Infra\\Logging\\HelpMe.Commun.Infra.Logging.Serilog\\HelpMe.Commun.Infra.Logging.Serilog.csproj",
   "expectedPackageFiles": [

@@ -1,0 +1,15 @@
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.Abstraction\bin\Debug\net6.0\Netcom.Commun.Security.Identity.Abstraction.deps.json
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.Abstraction\bin\Debug\net6.0\Netcom.Commun.Security.Identity.Abstraction.dll
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.Abstraction\bin\Debug\net6.0\Netcom.Commun.Security.Identity.Abstraction.pdb
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.Abstraction\bin\Debug\net6.0\Netcom.commun.domain.seedWork.dll
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.Abstraction\bin\Debug\net6.0\Netcom.commun.domain.seedWork.pdb
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.Abstraction\obj\Debug\net6.0\Netcom.Commun.Security.Identity.Abstraction.csproj.AssemblyReference.cache
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.Abstraction\obj\Debug\net6.0\Netcom.Commun.Security.Identity.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.Abstraction\obj\Debug\net6.0\Netcom.Commun.Security.Identity.Abstraction.AssemblyInfoInputs.cache
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.Abstraction\obj\Debug\net6.0\Netcom.Commun.Security.Identity.Abstraction.AssemblyInfo.cs
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.Abstraction\obj\Debug\net6.0\Netcom.Commun.Security.Identity.Abstraction.csproj.CoreCompileInputs.cache
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.Abstraction\obj\Debug\net6.0\Netcom.Commun.Security.Identity.Abstraction.csproj.CopyComplete
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.Abstraction\obj\Debug\net6.0\Netcom.Commun.Security.Identity.Abstraction.dll
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.Abstraction\obj\Debug\net6.0\refint\Netcom.Commun.Security.Identity.Abstraction.dll
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.Abstraction\obj\Debug\net6.0\Netcom.Commun.Security.Identity.Abstraction.pdb
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Security\Netcom.Commun.Security.Identity.Abstraction\obj\Debug\net6.0\ref\Netcom.Commun.Security.Identity.Abstraction.dll

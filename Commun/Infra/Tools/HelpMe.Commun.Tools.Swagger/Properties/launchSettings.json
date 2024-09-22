@@ -7,7 +7,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Netcom.Commun.Tools.Swagger": {
+    "HelpMe.Commun.Tools.Swagger": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
