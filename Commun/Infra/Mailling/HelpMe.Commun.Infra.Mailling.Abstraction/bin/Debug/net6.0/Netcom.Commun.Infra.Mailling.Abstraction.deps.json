@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Netcom.Commun.Infra.Mailling.Abstraction/1.0.0": {
+        "runtime": {
+          "Netcom.Commun.Infra.Mailling.Abstraction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Netcom.Commun.Infra.Mailling.Abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

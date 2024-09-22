@@ -1,0 +1,10 @@
+D:\work\Projects\marque-blanche\phenix-partner\Commun\domain\Netcom.commun.domain\bin\Debug\netstandard2.0\Netcom.commun.domain.data.deps.json
+D:\work\Projects\marque-blanche\phenix-partner\Commun\domain\Netcom.commun.domain\bin\Debug\netstandard2.0\Netcom.commun.domain.data.dll
+D:\work\Projects\marque-blanche\phenix-partner\Commun\domain\Netcom.commun.domain\bin\Debug\netstandard2.0\Netcom.commun.domain.data.pdb
+D:\work\Projects\marque-blanche\phenix-partner\Commun\domain\Netcom.commun.domain\obj\Debug\netstandard2.0\Netcom.commun.domain.data.csproj.AssemblyReference.cache
+D:\work\Projects\marque-blanche\phenix-partner\Commun\domain\Netcom.commun.domain\obj\Debug\netstandard2.0\Netcom.commun.domain.data.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Projects\marque-blanche\phenix-partner\Commun\domain\Netcom.commun.domain\obj\Debug\netstandard2.0\Netcom.commun.domain.data.AssemblyInfoInputs.cache
+D:\work\Projects\marque-blanche\phenix-partner\Commun\domain\Netcom.commun.domain\obj\Debug\netstandard2.0\Netcom.commun.domain.data.AssemblyInfo.cs
+D:\work\Projects\marque-blanche\phenix-partner\Commun\domain\Netcom.commun.domain\obj\Debug\netstandard2.0\Netcom.commun.domain.data.csproj.CoreCompileInputs.cache
+D:\work\Projects\marque-blanche\phenix-partner\Commun\domain\Netcom.commun.domain\obj\Debug\netstandard2.0\Netcom.commun.domain.data.dll
+D:\work\Projects\marque-blanche\phenix-partner\Commun\domain\Netcom.commun.domain\obj\Debug\netstandard2.0\Netcom.commun.domain.data.pdb

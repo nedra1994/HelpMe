@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3o7pN16AUCjChZ4XNdnknDv1TwA8iGQzphxWcDWW/TF08eWYlqXXwpE1w1PllkCRtlqCLyH0NJWKoDhuXSxtfw==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Projects\\HelpMeApplication\\HelpMe.Web.Identity.Api\\HelpMe.Web.Identity.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\n.farhat\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Data\Netcom.Commun.Infra.Data.EF\bin\Debug\net6.0\Netcom.Commun.Infra.Data.EF.deps.json
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Data\Netcom.Commun.Infra.Data.EF\bin\Debug\net6.0\Netcom.Commun.Infra.Data.EF.dll
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Data\Netcom.Commun.Infra.Data.EF\bin\Debug\net6.0\Netcom.Commun.Infra.Data.EF.pdb
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Data\Netcom.Commun.Infra.Data.EF\bin\Debug\net6.0\Netcom.commun.domain.seedWork.dll
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Data\Netcom.Commun.Infra.Data.EF\bin\Debug\net6.0\Netcom.commun.domain.seedWork.pdb
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Data\Netcom.Commun.Infra.Data.EF\obj\Debug\net6.0\Netcom.Commun.Infra.Data.EF.csproj.AssemblyReference.cache
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Data\Netcom.Commun.Infra.Data.EF\obj\Debug\net6.0\Netcom.Commun.Infra.Data.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Data\Netcom.Commun.Infra.Data.EF\obj\Debug\net6.0\Netcom.Commun.Infra.Data.EF.AssemblyInfoInputs.cache
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Data\Netcom.Commun.Infra.Data.EF\obj\Debug\net6.0\Netcom.Commun.Infra.Data.EF.AssemblyInfo.cs
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Data\Netcom.Commun.Infra.Data.EF\obj\Debug\net6.0\Netcom.Commun.Infra.Data.EF.csproj.CoreCompileInputs.cache
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Data\Netcom.Commun.Infra.Data.EF\obj\Debug\net6.0\Netcom.Commun.Infra.Data.EF.csproj.CopyComplete
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Data\Netcom.Commun.Infra.Data.EF\obj\Debug\net6.0\Netcom.Commun.Infra.Data.EF.dll
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Data\Netcom.Commun.Infra.Data.EF\obj\Debug\net6.0\refint\Netcom.Commun.Infra.Data.EF.dll
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Data\Netcom.Commun.Infra.Data.EF\obj\Debug\net6.0\Netcom.Commun.Infra.Data.EF.pdb
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Data\Netcom.Commun.Infra.Data.EF\obj\Debug\net6.0\ref\Netcom.Commun.Infra.Data.EF.dll

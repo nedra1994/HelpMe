@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Netcom.Commun.Tools.Swagger.props" />
+</Project>

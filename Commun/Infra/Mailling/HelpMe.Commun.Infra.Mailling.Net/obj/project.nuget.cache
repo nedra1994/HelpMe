@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hmmSEyWdlscXUyhaysee8ZIFmtj0synNXvnVKCCQdzxMWIap4wXb2NkYG4zDZZULgR+V3js4wJziK+aZ0OCzJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Work\\Projects\\HelpMeApplication\\Commun\\Infra\\Mailling\\HelpMe.Commun.Infra.Mailling.Net\\HelpMe.Commun.Infra.Mailling.Net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\n.farhat\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\n.farhat\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\n.farhat\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\n.farhat\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

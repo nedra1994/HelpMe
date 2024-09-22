@@ -1,0 +1,12 @@
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Abstraction\bin\Debug\net6.0\Netcom.Commun.Infra.Mailling.Abstraction.deps.json
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Abstraction\bin\Debug\net6.0\Netcom.Commun.Infra.Mailling.Abstraction.dll
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Abstraction\bin\Debug\net6.0\Netcom.Commun.Infra.Mailling.Abstraction.pdb
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Abstraction\obj\Debug\net6.0\Netcom.Commun.Infra.Mailling.Abstraction.csproj.AssemblyReference.cache
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Abstraction\obj\Debug\net6.0\Netcom.Commun.Infra.Mailling.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Abstraction\obj\Debug\net6.0\Netcom.Commun.Infra.Mailling.Abstraction.AssemblyInfoInputs.cache
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Abstraction\obj\Debug\net6.0\Netcom.Commun.Infra.Mailling.Abstraction.AssemblyInfo.cs
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Abstraction\obj\Debug\net6.0\Netcom.Commun.Infra.Mailling.Abstraction.csproj.CoreCompileInputs.cache
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Abstraction\obj\Debug\net6.0\Netcom.Commun.Infra.Mailling.Abstraction.dll
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Abstraction\obj\Debug\net6.0\refint\Netcom.Commun.Infra.Mailling.Abstraction.dll
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Abstraction\obj\Debug\net6.0\Netcom.Commun.Infra.Mailling.Abstraction.pdb
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Abstraction\obj\Debug\net6.0\ref\Netcom.Commun.Infra.Mailling.Abstraction.dll

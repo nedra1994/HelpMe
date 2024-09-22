@@ -1,0 +1,15 @@
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Net\bin\Debug\net6.0\Netcom.Commun.Infra.Mailling.Net.deps.json
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Net\bin\Debug\net6.0\Netcom.Commun.Infra.Mailling.Net.dll
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Net\bin\Debug\net6.0\Netcom.Commun.Infra.Mailling.Net.pdb
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Net\bin\Debug\net6.0\Netcom.Commun.Infra.Mailling.Abstraction.dll
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Net\bin\Debug\net6.0\Netcom.Commun.Infra.Mailling.Abstraction.pdb
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Net\obj\Debug\net6.0\Netcom.Commun.Infra.Mailling.Net.csproj.AssemblyReference.cache
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Net\obj\Debug\net6.0\Netcom.Commun.Infra.Mailling.Net.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Net\obj\Debug\net6.0\Netcom.Commun.Infra.Mailling.Net.AssemblyInfoInputs.cache
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Net\obj\Debug\net6.0\Netcom.Commun.Infra.Mailling.Net.AssemblyInfo.cs
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Net\obj\Debug\net6.0\Netcom.Commun.Infra.Mailling.Net.csproj.CoreCompileInputs.cache
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Net\obj\Debug\net6.0\Netcom.Commun.Infra.Mailling.Net.csproj.CopyComplete
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Net\obj\Debug\net6.0\Netcom.Commun.Infra.Mailling.Net.dll
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Net\obj\Debug\net6.0\refint\Netcom.Commun.Infra.Mailling.Net.dll
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Net\obj\Debug\net6.0\Netcom.Commun.Infra.Mailling.Net.pdb
+D:\work\Projects\marque-blanche\phenix-partner\Commun\Infra\Mailling\Netcom.Commun.Infra.Mailling.Net\obj\Debug\net6.0\ref\Netcom.Commun.Infra.Mailling.Net.dll
