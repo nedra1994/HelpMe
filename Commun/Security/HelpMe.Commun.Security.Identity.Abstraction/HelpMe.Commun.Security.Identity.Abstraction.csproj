@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\domain\Netcom.commun.domain.SeedWork\HelpMe.commun.domain.seedWork.csproj" />
+    <ProjectReference Include="..\..\domain\HelpMe.commun.domain.SeedWork\HelpMe.commun.domain.seedWork.csproj" />
   </ItemGroup>
 
 </Project>

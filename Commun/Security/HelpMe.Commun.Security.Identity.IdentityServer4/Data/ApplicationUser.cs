@@ -20,11 +20,11 @@ namespace HelpMe.Commun.Security.Identity.Data
         public abstract string ResetPasswordRequestToken { get; set; }
         public abstract string AccountRequestConfirmedToken { get; set; }
         public abstract string Name { get; set; }
-        public abstract string PartenaireId { get; set; }
+        public abstract string UserId { get; set; }
         public abstract string ClientCode { get; set; }
 
-        public abstract string PartenaireParentId { get; set; }
-        public abstract string PartnersAccessType { get; set; }
+ 
+        public abstract string UsersAccessType { get; set; }
 
         public abstract DateTime? LastLoginDate { get; set; }
         public abstract bool? isDoubleAuth { get; set; }
